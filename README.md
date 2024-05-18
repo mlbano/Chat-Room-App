@@ -4,7 +4,7 @@
 
 This app is a Chat Room App that allows users to join chat rooms labeled with different topics.
 
-**Tech Stack**: ReactJS, NodeJS, Socket.io
+**💻 Tech Stack**: ReactJS, NodeJS, Socket.io
 
 It allows users to:
 
@@ -13,7 +13,7 @@ It allows users to:
 - Leave room
 
 
-### Upcoming Updates
+### ⏲️ Upcoming Updates
  There will be active updates towards this project including:
 
  - Sign up and Login system
